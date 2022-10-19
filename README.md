@@ -26,6 +26,9 @@
 - Exercises
 
 *Professor: Harry Wang*
+
 [Lecture Notion Page](https://harryjwang.notion.site/harryjwang/MISY225-Fall-2022-f9a8ab999ada4fafbad8be7869aafd12)
+
 [Introduction to Python Data Science Tools](https://harrywang.me/ds#numpy)
+
 [Python Cheatsheet](https://harrywang.me/python)
